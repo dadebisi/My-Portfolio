@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+h2 {
+    font-size: 12px;
+    color:whitesmoke;     
+}
+p{
+    color: whitesmoke;
+}
+h4{
+    color: whitesmoke;
+    font-size: 70px;
+    line-height: px;
+    font-family: sans-serif;
+    font-weight: lighter; 
+}
+h3{
+    font-family: sans-serif;
+    font-size: 150%;
+    color:white;
+    font-weight: lighter;  
+    line-height: 0px;
+    tab-size: 1;
+
+}
+a {
+    color: whitesmoke;
+}
